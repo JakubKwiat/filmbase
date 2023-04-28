@@ -1,0 +1,6 @@
+Kevin,Spacey,26-07-1959,8.8,USA
+Alfredo,Pacino,25-04-1940,8.9,USA
+Marlon,Brando,03-04-1924,8.6,USA
+Joseph,Pesci,09-02-1943,8.9,USA
+Robert,De Niro,17-08-1943,8.7,USA
+Boguslaw,Linda,27-06-1952,8.1,Poland
